@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1-rc",
+  "version": "1.0.2-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -40,14 +40,14 @@
   },
   "name": "alemac-product-card",
   "author": "AleMac17",
-  "module": "dist/am-product-card.esm.js",
+  "module": "dist/alemac-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/am-product-card.cjs.production.min.js",
+      "path": "dist/alemac-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/am-product-card.esm.js",
+      "path": "dist/alemac-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
