@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "am-product-card",
+  "name": "alemac-product-card",
   "author": "AleMac17",
   "module": "dist/am-product-card.esm.js",
   "size-limit": [
